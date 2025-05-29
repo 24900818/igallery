@@ -1,4 +1,4 @@
-# Ex.08 Design of Interactive Image Gallery
+# Ex.07 Design of Interactive Image Gallery
 ## Date:
 
 ## AIM:
@@ -25,8 +25,51 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main id="gallery">
+        <div class="gallery-container">
+            <img src="c:\Users\admin\Desktop\maha.jpg" alt="Image 1" >
+            <img src="c:\Users\admin\Desktop\beach s.jpg" alt="Image 2">
+            <img src="c:\Users\admin\Desktop\nyt s.jpg" alt="Image 3" >
+            <img src="c:\Users\admin\Desktop\flowers s.jpg" alt="Image 4" >
+            <img src="c:\Users\admin\Downloads\pool s.jpg" alt="Image 5" >
+            <img src="c:\Users\admin\Desktop\food.jpg" alt="Image 6" >
+            <img src="c:\Users\admin\Desktop\akki.jpg" alt="Image 7" >
+            <img src="c:\Users\admin\Desktop\tourist .jpg" alt="Image 8" >
+            <!-- Add more images as needed -->
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Your Website</p>
+    </footer>
+</body>
+</html>
+```
 
 ## OUTPUT:
+
+![Screenshot 2025-05-29 203527](https://github.com/user-attachments/assets/e6c5f131-2e54-4470-bae4-aa6318d03eae)
+
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
