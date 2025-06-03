@@ -159,8 +159,7 @@ function unDo() {
 
 ## OUTPUT:
 
-![Screenshot 2025-05-29 203527](https://github.com/user-attachments/assets/e6c5f131-2e54-4470-bae4-aa6318d03eae)
-
+![Screenshot 2025-06-03 075254](https://github.com/user-attachments/assets/e5abb605-f66f-4f66-9dfe-7da470aa24df)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
